@@ -1,3 +1,3 @@
-# Mern-BS-Tasks-set2-
+# Mern-BS and Js -Tasks-set2-
 Assignment Github Links
   https://github.com/harshgith/Mern-BS-Tasks-set2-
